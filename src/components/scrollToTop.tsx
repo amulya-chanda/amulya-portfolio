@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import scrollTopIcon from "../assets/arrow.png";
 import { ArrowUp } from "lucide-react";
 
 const ScrollToTop = () => {
